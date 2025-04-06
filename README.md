@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**https://github.dev/PaystackOSS/plugin-payment-forms-for-wordpress is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kiddahkisz/Kiddahkisz** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
